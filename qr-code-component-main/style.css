@@ -1,0 +1,39 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+}
+.scanner-box{
+    border-radius: 15px;
+    align-items: center;
+    background-color: white;
+    width: 330px;
+    height: 510px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: 90px;
+    background-color: hsl(0, 0%, 100%);
+}
+.scanner{
+    margin-top:15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    width: 300px;
+}
+.bold{
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 23px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.not-bold{
+    text-align: center;
+    font-family:'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    padding-top: 5px;
+    color: hsl(220, 15%, 55%);
+}
